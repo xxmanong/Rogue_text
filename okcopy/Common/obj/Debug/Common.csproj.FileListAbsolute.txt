@@ -1,0 +1,5 @@
+D:\webBills\okcopy\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\webBills\okcopy\Common\bin\Debug\Common.dll
+D:\webBills\okcopy\Common\bin\Debug\Common.pdb
+D:\webBills\okcopy\Common\obj\Debug\Common.dll
+D:\webBills\okcopy\Common\obj\Debug\Common.pdb

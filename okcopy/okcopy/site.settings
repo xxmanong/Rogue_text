@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <appSettings>
+    <add key="webpages:Version" value="3.0.0.0"/>
+    <add key="webpages:Enabled" value="false"/>
+    <add key="ClientValidationEnabled" value="true"/>
+    <add key="UnobtrusiveJavaScriptEnabled" value="true"/>
+ 
+	<add key="mssql" value="Data source=.;initial catalog=okcopy;persist security info=True;user id=sa;password=123;" />  
+	
+	<add key="baseUrl" value="http://localhost:200" />
+	<add key="ApplicationName" value="OkCopy" />
+	<add key="ClientName" value="大数据分析系统" />
+	<add key="AuthKey" value="i8gzuQvLJ" />
+	<add key="AuthCode" value="R3EvVmhzdnZTY0dGcUJRemxjcVlXWF96NUE0V1gesGIvcnFweGx3ZllGdz0=" />
+	<add key="Copyright" value="Copyright by SCAP(HK) &copy; 1996-2016" />
+
+
+    <!--请求地址-->
+    <add key="AccUrl" value="http://localhost:96/api.ashx"/>
+    <!--设置授权码-->
+    <add key="AccessToken" value="oq0Emr4giNpKHN"/>	
+ </appSettings>
+ 

@@ -1,0 +1,10 @@
+D:\webBills\okcopy\Business\bin\Debug\Business.dll
+D:\webBills\okcopy\Business\bin\Debug\Business.pdb
+D:\webBills\okcopy\Business\bin\Debug\Common.dll
+D:\webBills\okcopy\Business\bin\Debug\DataAccess.dll
+D:\webBills\okcopy\Business\bin\Debug\Newtonsoft.Json.dll
+D:\webBills\okcopy\Business\bin\Debug\Common.pdb
+D:\webBills\okcopy\Business\bin\Debug\DataAccess.pdb
+D:\webBills\okcopy\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\webBills\okcopy\Business\obj\Debug\Business.dll
+D:\webBills\okcopy\Business\obj\Debug\Business.pdb
